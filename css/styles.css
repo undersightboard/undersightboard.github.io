@@ -10899,6 +10899,7 @@ html {
 }
 #mainNav .navbar-brand {
   color: #fff;
+  font-family: "Georgia";
 }
 #mainNav .navbar-nav {
   margin-top: 1rem;
