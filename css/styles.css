@@ -10900,7 +10900,7 @@ html {
 #mainNav .navbar-brand {
   color: #fff;
   font-family: "Georgia";
-  text-transform: none;
+  text-transform: capitalize;
 }
 #mainNav .navbar-nav {
   margin-top: 1rem;
