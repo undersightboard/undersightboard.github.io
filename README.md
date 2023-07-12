@@ -1,1 +1,3 @@
-This is a test of the webpage.
+This is the main webpage for The Undersight Board. 
+
+Contact us at: undersightboard@gmail.com
