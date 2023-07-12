@@ -497,6 +497,7 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  font-family: "Georgia", serif;
 }
 
 .display-1 {
@@ -10941,6 +10942,7 @@ html {
   }
   #mainNav .navbar-nav {
     margin-top: 0;
+    font-family: var(--bs-font-sans-serif);
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
